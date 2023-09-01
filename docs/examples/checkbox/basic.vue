@@ -26,4 +26,5 @@ const checked3 = ref(false)
 const checked4 = ref(false)
 const checked5 = ref(false)
 const checked6 = ref(false)
+  console.log(checked1)
 </script>
